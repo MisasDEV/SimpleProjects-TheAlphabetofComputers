@@ -22,5 +22,4 @@ The project is mainly a **practice ground** for:
 
 ## 🚀 How to Run
 1. Clone this repository:
-bash
 git clone https://github.com/MisasDEV/SimpleProjects-TheAlphabetofComputers
