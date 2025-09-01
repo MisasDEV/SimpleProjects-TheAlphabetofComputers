@@ -1,6 +1,6 @@
 # 📖 The Alphabet of Computers
 
-This project is a simple HTML + CSS website that presents an **A–Z glossary of computer-related concepts** (Algorithm, Binary, CPU, Database, etc.).  
+This project is a simple HTML + CSS website that presents an **A–Z glossary of computer-related concepts** (Algorithm, Binary, CPU, Database, etc.) to the Simple Projects collection.  
 Each letter introduces a key computing term, along with a short description and useful reference links.
 
 ---
